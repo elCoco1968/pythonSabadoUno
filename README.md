@@ -1,0 +1,2 @@
+# pythonSabadoUno
+logica condicional python
